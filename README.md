@@ -13,7 +13,7 @@
 ## Images
 
 ![image](https://www.dropbox.com/s/gvhfkk8qzzxyq9s/11.png?raw=1)
-![image](https://www.dropbox.com/s/700areuoochvu2s/22.png?dl=0?raw=1)
+![image](https://www.dropbox.com/s/700areuoochvu2s/22.png?raw=1)
 ![image](https://www.dropbox.com/s/0rgil75qp7ildw7/33.png?raw=1)
 
 
