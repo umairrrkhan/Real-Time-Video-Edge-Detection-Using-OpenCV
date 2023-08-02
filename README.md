@@ -12,9 +12,9 @@
 
 ## Images
 
-- ![Image](images/1.png)
-- ![Image](images/2.png)
-- ![Image](images/3.png)
+- ![Image](1.png)
+- ![Image](2.png)
+- ![Image](3.png)
 
 ## Libraries
 
