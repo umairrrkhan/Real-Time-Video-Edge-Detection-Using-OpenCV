@@ -5,7 +5,7 @@
 Welcome to the **Real-Time Image Edge Detection Using OpenCV** project, hosted on [Hugging Face Spaces](https://huggingface.co/spaces/umairrrkhan/Real-Time-Image-Edge-Detection-Using-OpenCV). This application uses OpenCV and Gradio to detect edges in images using the Canny edge detection algorithm.
 
 ## 🚀 Demo
-Check out the live demo of the project here: [Real-Time Image Edge Detection Using OpenCV](https://huggingface.co/spaces/umairrrkhan/Real-Time-Image-Edge-Detection-Using-OpenCV).
+Check out the live demo of the project here: [Real-Time Image Edge Detection](https://huggingface.co/spaces/umairrrkhan/Real-Time-Image-Edge-Detection-Using-OpenCV).
 
 ## 📝 Description
 
@@ -57,7 +57,7 @@ If you encounter any issues, please reach out via GitHub or contact me at [umair
 
 ## 🔗 Links
 
-- **Hugging Face Space**: [Real-Time Video Edge Detection](https://huggingface.co/spaces/umairrrkhan/Real-Time-Video-Edge-Detection-Using-OpenCV)
+- **Hugging Face Space**: [Real-Time Image Edge Detection](https://huggingface.co/spaces/umairrrkhan/Real-Time-Video-Edge-Detection-Using-OpenCV)
 - **GitHub**: [umairrrkhan](https://github.com/umairrrkhan)
 - **LinkedIn**: [umairkhannn](https://www.linkedin.com/in/umairkhannn)
 
